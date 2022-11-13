@@ -1,0 +1,16 @@
+current directory: /Users/markberthelemy/Documents/Code/nestledinbrittany/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/Users/markberthelemy/.rvm/rubies/ruby-2.6.3/bin/ruby -I /Users/markberthelemy/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0 -r ./siteconf20221113-39245-3abyq.rb extconf.rb
+creating Makefile
+
+current directory: /Users/markberthelemy/Documents/Code/nestledinbrittany/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" clean
+
+current directory: /Users/markberthelemy/Documents/Code/nestledinbrittany/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR="
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+
+current directory: /Users/markberthelemy/Documents/Code/nestledinbrittany/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 fastfilereaderext.bundle ./.gem.20221113-39245-qytrtx
