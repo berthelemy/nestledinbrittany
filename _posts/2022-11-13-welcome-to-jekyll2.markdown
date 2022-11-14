@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Another post"
+img: pic01.jpg
 date:   2022-11-13 08:22:34 +0100
 tags: jekyll update
 ---
