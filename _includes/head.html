@@ -1,0 +1,25 @@
+
+
+  <head>
+    <title>{{ site.title }} | {{ page.title }}</title>
+    <meta name=”description” content="{{ site.description }}: {{ site.sub-description }}">
+    <meta charset="utf-8" />
+
+    <!--Insert OG Markup -->
+
+    <meta prefix="og: http://ogp.me/ns#" property="og:type" content="website" />
+    <meta prefix="og: http://ogp.me/ns#" property="og:title" content="{{ site.title }} | {{ page.title }}" />
+
+    <meta prefix="og: http://ogp.me/ns#" property="og:description" content="{{ site.description }}: {{ site.sub-description }}" />
+    {% if page.img %}
+    <meta prefix="og: http://ogp.me/ns#" property="og:image" content="{{ site.url }}/assets/img/post-images/{{ page.img }}" />
+    {% else %}
+    <meta prefix="og: http://ogp.me/ns#" property="og:image" content="{{ site.url }}/assets/images/1024px-Brittany_WV_region_map_EN.png" />
+    {% endif %}
+    <meta prefix="og: http://ogp.me/ns#" property="og:url" content="{{ site.url }}{{ page.url }}" />
+
+    <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="/feed.xml">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="{{ site.url }}/assets/css/main.css" />
+  </head>
