@@ -22,7 +22,16 @@
                 <section>
 									<header class="main">
 										<h1>{{ page.title }}</h1>
-										<h2>Department: {{ page.department }}</h2>
+										{% if page.img %}
+										<div class="header-image">
+											<img class="image fit" src="{{ site.url }}/assets/images/{{ page.img }}" alt="{{  page.imgalt }}" />
+											{% if page.imgcredit %}
+											<p class="imagecredit">Image credit: {{ page.imgcredit }}</p>
+											{% else %}
+											<p class="imagecredit">Image credit: Mark Berthelemy</p>
+											{% endif %}
+										</div><!-- header-image -->
+										{% endif %}
 										<div class="box">
 										<ul class="tags">
 											<li>Tags: </li>
@@ -37,14 +46,15 @@
 
                     {{ content }}
 										{% if page.longitude %}
-										<h2>Map</h2>
+										<h2>{{ page.title }}, {{ page.address }}, {{ page.departement}}</h2>
 										<div id="map"></div>
 										<script>
 										var map = L.map('map').setView([{{page.longitude}},{{page.latitude}}], 8);
 										var marker = L.marker([{{page.longitude}},{{page.latitude}}],{alt:'{{page.title}}'}).addTo(map);
 										L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 												maxZoom: 19,
-												attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+												attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+												dragging: false
 										}).addTo(map);
 										marker.bindPopup("<b>{{ page.title }}</b><br>{{ page.address }}").openPopup();
 										</script>
@@ -53,7 +63,12 @@
 
 										{% endif %}
 
-
+										{% if page.links %}
+										<h2>External links</h2>
+										{% for link in page.links %}
+											<p><a href="{{ link.url }}" target="_blank">{{ link.source }}</p>
+										{% endfor %}
+										{% endif %}
 
 										<hr>
 										<p>Last updated: {{ page.date | date: "%B %d, %Y"}}
