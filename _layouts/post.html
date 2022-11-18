@@ -22,6 +22,7 @@
                 <section>
 									<header class="main">
 										<h1>{{ page.title }}</h1>
+										<h2>Department: {{ page.department }}</h2>
 										<div class="box">
 										<ul class="tags">
 											<li>Tags: </li>
@@ -35,6 +36,25 @@
 									<!-- Content -->
 
                     {{ content }}
+										{% if page.longitude %}
+										<h2>Map</h2>
+										<div id="map"></div>
+										<script>
+										var map = L.map('map').setView([{{page.longitude}},{{page.latitude}}], 8);
+										var marker = L.marker([{{page.longitude}},{{page.latitude}}],{alt:'{{page.title}}'}).addTo(map);
+										L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+												maxZoom: 19,
+												attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+										}).addTo(map);
+										marker.bindPopup("<b>{{ page.title }}</b><br>{{ page.address }}").openPopup();
+										</script>
+
+										<p><a class="button" href="https://www.google.com/maps/search/?api=1&query={{page.longitude}}%2C{{ page.latitude }}" target="_blank">Open in Google Maps</a></p>
+
+										{% endif %}
+
+
+
 										<hr>
 										<p>Last updated: {{ page.date | date: "%B %d, %Y"}}
                 </section>
