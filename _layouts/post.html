@@ -34,7 +34,7 @@
 										{% endif %}
 										<div class="box">
 										<ul class="tags">
-											<li>Tags: </li>
+											<li>Related pages: </li>
 										{% for tag in page.tags %}
 											<li><a href="{{ site.url }}/tag/{{ tag }}">{{ tag }}</a></li>
 										{% endfor %}
@@ -49,12 +49,16 @@
 										<h2>{{ page.title }}, {{ page.address }}, {{ page.departement}}</h2>
 										<div id="map"></div>
 										<script>
-										var map = L.map('map').setView([{{site.longitude}},{{site.latitude}}], 8);
+										var map = L.map('map',{
+										  gestureHandling: true,
+										  fullscreenControl: {
+										        pseudoFullscreen: true // if true, fullscreen to page width and height
+													}
+										    }).setView([{{site.longitude}},{{site.latitude}}], 8);
 										var marker = L.marker([{{page.longitude}},{{page.latitude}}],{alt:'{{page.title}}'}).addTo(map);
 										L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 												maxZoom: 19,
-												attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
-												dragging: false
+												attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 										}).addTo(map);
 										marker.bindPopup("<b>{{ page.title }}</b><br>{{ page.address }}").openPopup();
 										</script>

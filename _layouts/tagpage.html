@@ -5,7 +5,12 @@ layout: default
 <div id="map"></div>
 
 <script>
-var map = L.map('map').setView([{{site.longitude}},{{site.latitude}}], 8);
+var map = L.map('map',{
+  gestureHandling: true,
+  fullscreenControl: {
+        pseudoFullscreen: true // if true, fullscreen to page width and height
+    }
+}).setView([{{site.longitude}},{{site.latitude}}], 8);
 
 {% for post in site.tags[page.tag] %}
 var marker = L.marker([{{post.longitude}},{{post.latitude}}],{alt:'{{page.title}}'}).addTo(map);
@@ -15,24 +20,24 @@ marker.bindPopup("<b><a href='{{ post.url }}'>{{ post.title }}</a></b><br>{{ pos
 L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
-    dragging: false
+
 }).addTo(map);
 
 </script>
 
-<!-- <div class="posts">
+<div class="posts">
 
 
 
   {% for post in site.tags[page.tag] %}
   <article>
-    <a href="{{ post.url }}" class="image"><img src="{{ site.url }}/assets/images/{{ post.img }}" alt="" /></a>
+    <!--<a href="{{ post.url }}" class="image"><img src="{{ site.url }}/assets/images/{{ post.img }}" alt="" /></a>-->
     <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-    <p>{{ post.content | truncate: 200 }}</p>
+    <p>{{ post.address }}</p>
     <ul class="actions">
       <li><a href="{{ post.url }}" class="button">More</a></li>
     </ul>
   </article>
   {% endfor %}
 
-</div>-->
+</div>
