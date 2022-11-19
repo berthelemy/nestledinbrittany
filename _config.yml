@@ -43,3 +43,7 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Set map centre
+longitude: 48.04240
+latitude: -3.47990

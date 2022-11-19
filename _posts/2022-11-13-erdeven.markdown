@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Erdeven alignments"
+address: "60 Rue des Menhirs, 56410 Erdeven"
+img: erdeven-2013-08-24 12.49.47.jpg
+imgalt: Standing stones
+date:   2022-11-13 08:22:34 +0100
+tags: history walks
+departement: Morbihan
+longitude: 47.6351
+latitude: -3.1491
+links:
+ - source: Tourist information
+   url: https://www.baiedequiberon.co.uk/discover-the-megaliths-of-Erdeven
+ - source: Megaliths of Morbihan
+   url: https://www.megalithes-morbihan.com/the-sites/kerzerho-stone-rows.html
+ - source: Wikipedia (French)
+   url: https://fr.wikipedia.org/wiki/Alignements_de_Kerz%C3%A9rho
+
+---
+Erdeven is famous for its alignments of standing stones. Next to the car park, you'll find the first set - an impressive collection of stones. But wander along the "Sentier des megaliths" and you'll find many more hidden in the forest.
+
+You can easily spend an afternoon here. Children can run and explore the forest, on a megalith hunt.

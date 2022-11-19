@@ -3,6 +3,7 @@ layout: post
 title:  "Chapelle Saint-Barbe"
 address: "56320 Le Faouët"
 img: chappelle-st-barbe-IMG20220701090109.jpg
+imgalt: Chappelle Saint-Barbe
 date:   2022-11-13 08:22:34 +0100
 tags: history religious
 departement: Morbihan

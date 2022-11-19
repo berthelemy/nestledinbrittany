@@ -2,11 +2,31 @@
 title: Tag list
 layout: default
 ---
+<div id="map"></div>
 
-<div class="posts">
+<script>
+var map = L.map('map').setView([{{site.longitude}},{{site.latitude}}], 8);
+
+{% for post in site.tags[page.tag] %}
+var marker = L.marker([{{post.longitude}},{{post.latitude}}],{alt:'{{page.title}}'}).addTo(map);
+marker.bindPopup("<b><a href='{{ post.url }}'>{{ post.title }}</a></b><br>{{ post.address }}<img class='image fit' src='{{ site.url }}/assets/images/{{ post.img }}' />");
+{% endfor %}
+
+L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom: 19,
+    attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+    dragging: false
+}).addTo(map);
+
+</script>
+
+<!-- <div class="posts">
+
+
+
   {% for post in site.tags[page.tag] %}
   <article>
-    <a href="#" class="image"><img src="images/pic01.jpg" alt="" /></a>
+    <a href="{{ post.url }}" class="image"><img src="{{ site.url }}/assets/images/{{ post.img }}" alt="" /></a>
     <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
     <p>{{ post.content | truncate: 200 }}</p>
     <ul class="actions">
@@ -15,4 +35,4 @@ layout: default
   </article>
   {% endfor %}
 
-</div>
+</div>-->

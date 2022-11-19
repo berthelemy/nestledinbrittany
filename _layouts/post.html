@@ -49,7 +49,7 @@
 										<h2>{{ page.title }}, {{ page.address }}, {{ page.departement}}</h2>
 										<div id="map"></div>
 										<script>
-										var map = L.map('map').setView([{{page.longitude}},{{page.latitude}}], 8);
+										var map = L.map('map').setView([{{site.longitude}},{{site.latitude}}], 8);
 										var marker = L.marker([{{page.longitude}},{{page.latitude}}],{alt:'{{page.title}}'}).addTo(map);
 										L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 												maxZoom: 19,
