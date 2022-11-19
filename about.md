@@ -1,18 +1,23 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Credits
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+This site is built on the generous efforts of many people, who have provided software and services for free.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+[Jekyll static site builder](https://jekyllrb.com/)
 
+[HTML5UP templates](https://html5up.net/)
 
-[jekyll-organization]: https://github.com/jekyll
+[OpenStreetMap](https://www.openstreetmap.org/)
+
+[Leafleft JS interactive maps library](https://leafletjs.com/)
+
+[Leaflet full screen plugin](https://github.com/Leaflet/Leaflet.fullscreen)
+
+[Leaflet gesture handling plugin](https://github.com/elmarquis/Leaflet.GestureHandling)
+
+[Github pages hosting](https://pages.github.com/)
