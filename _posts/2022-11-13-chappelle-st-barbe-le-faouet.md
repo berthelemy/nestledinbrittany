@@ -5,7 +5,7 @@ address: "56320 Le Faouët"
 img: chappelle-st-barbe-IMG20220701090109.jpg
 imgalt: Chappelle Saint-Barbe
 date:   2022-11-13 08:22:34 +0100
-tags: history religious
+tags: history religious walks
 departement: Morbihan
 longitude: 48.04240
 latitude: -3.47990
@@ -19,3 +19,5 @@ links:
 The 15th century Chappelle Saint-Barbe is in a stunning location on the side of a steep valley near the small town of Le Faouêt.
 
 During the day, the ancient bar on the plateau above the chapel is open for drinks, ice creams and souvenirs.
+
+From the car park on the plateau, there are plenty of walks through the woodland and along the river.
