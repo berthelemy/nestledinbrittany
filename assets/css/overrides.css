@@ -21,6 +21,11 @@ ul.tags li a {
   margin: 1rem 0 1rem 0;
 }
 
+.posts article .image img {
+  height: 302px;
+  object-fit: cover;
+}
+
 /* Container holding the image and the text */
 .header-image {
   position: relative;
