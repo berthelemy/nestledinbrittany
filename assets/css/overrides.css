@@ -26,6 +26,8 @@ ul.tags li a {
   object-fit: cover;
 }
 
+#banner .image img.popup {margin: 0;}
+
 /* Container holding the image and the text */
 .header-image {
   position: relative;
