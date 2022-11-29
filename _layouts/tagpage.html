@@ -24,10 +24,8 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(map);
 
 </script>
-
+<h2>{{ page.description }}</h2>
 <div class="posts">
-
-
 
   {% for post in site.tags[page.tag] %}
   <article>

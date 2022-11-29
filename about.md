@@ -4,6 +4,12 @@ title: About
 permalink: /about/
 ---
 
+## Licensing
+
+This website is available under a Creative Commons Non-Commercial, No Derivatives, Attribution License.
+
+If you wish to use any of the contents for commercial purposes, please get in touch.
+
 ## Credits
 
 This site is built on the generous efforts of many people, who have provided software and services for free.

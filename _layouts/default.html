@@ -21,13 +21,15 @@
 
                 <section>
 									<header class="main">
-										<h1>{{ page.title }}</h1>
+										<h1>{% if page.url != "/"%}<a href="/">Home</a> / {% endif %}{{ page.title }}</h1>
 									</header>
 
 									<!-- Content -->
 
                     {{ content }}
-                </section>
+								{% include pagefooter.html %}
+
+								</section>
 
 
 

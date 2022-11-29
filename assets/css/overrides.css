@@ -51,6 +51,7 @@ ul.tags li a {
   bottom: 0px;
   right: 0px;
   padding: 0.5rem 1rem;
+  border-radius: 0.375em;
   margin: 0;
   background-color: rgba(0,0,0,0.6);
   color: #fff;
