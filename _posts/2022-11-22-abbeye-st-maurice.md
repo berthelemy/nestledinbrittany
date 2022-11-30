@@ -24,6 +24,6 @@ Half way between Guidel and Clohars-Carnoët, just west of the high bridge over 
 
 Here are all the ingredients for a good afternoon out. The Abbeye itself is now a museum, including restored buildings, fascinating displays of life in a Cistercian Abbey, and even a view into the life of bats.
 
-Around the Abbey are miles of footpaths with great views of the tidal river as it meanders down to the sea.
+Around the Abbey are miles of footpaths in the [Forêt de Carnoët]({{ site.url }}/2022/11/30/foret-de-carnoet.html) with great views of the tidal river as it meanders down to the sea.
 
 And, sitting calmly, overlooking the water, is one of the best crêperies in the area. At busy times, it's worth calling in advance to make a reservation.
