@@ -27,6 +27,8 @@ github_username:  berthelemy
 markdown: kramdown
 theme: minima
 
+permalink: /:categories/:title
+
 sass:
     sass_dir: _sass
 
