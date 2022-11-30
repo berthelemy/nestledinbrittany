@@ -6,7 +6,7 @@ img: chappelle-st-barbe-IMG20220701090109.jpg
 imgalt: Chappelle Saint-Barbe
 date:   2022-11-13 08:22:34 +0100
 tags: history walks
-departement: Morbihan
+categories: Morbihan
 longitude: 48.04240
 latitude: -3.47990
 links:

@@ -6,7 +6,7 @@ img: erdeven-2013-08-24 12.49.47.jpg
 imgalt: Standing stones
 date:   2022-11-13 08:22:34 +0100
 tags: history walks
-departement: Morbihan
+categories: Morbihan
 longitude: 47.6351
 latitude: -3.1491
 links:
