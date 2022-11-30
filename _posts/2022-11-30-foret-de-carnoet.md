@@ -28,4 +28,4 @@ The forest here, between Quimperlé and Clohars-Carnoët, is large enough to get
 
 There are plenty of footpaths, mountain bike (VTT) routes, and even a short trim trail (parcours sportif).
 
-Once you've had your exercise, you could follow it up with a crêpe at the [Abbeye St Maurice]({{ site.url }}/2022/11/22/abbeye-st-maurice.html), just around the corner.
+Once you've had your exercise, you could follow it up with a crêpe at the [Abbeye St Maurice]({{ site.url }}/finistere/abbeye-st-maurice), just around the corner.
