@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pors Poulhan - a journey into the stone ages"
+title:  "Pors Poulhan"
 img: pors-poulhan-allee-couverte-1000822.jpg
 date:   2022-11-13 08:22:34 +0100
 tags: history walks
