@@ -39,16 +39,16 @@
           <ul>
             <li><a href="/">Home</a></li>
             <!--<li><a href="/browse">Browse</a></li>-->
-            <li><a href="/elements.html">Elements</a></li>
-            <li><a href="/generic">Generic</a></li>
-            <li>
+            <!--<li><a href="/elements.html">Elements</a></li>
+            <li><a href="/generic">Generic</a></li>-->
+            <!--<li>
               <span class="opener">Categories</span>
-              <ul>
+              <ul>-->
               {% for tag in site.tags %}
                 <li><a href="{{ site.url }}/tag/{{ tag[0] | slugify }}" >{{ tag[0] }}</a></li>
               {% endfor %}
-              </ul>
-            </li>
+              <!--</ul>-->
+            <!--</li>-->
             <li><a href="/about">About</a></li>
             <!--<li><a href="/contributing">Contributing</a></li>-->
 
