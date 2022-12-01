@@ -20,6 +20,6 @@ links:
 ---
 Just up the hill from the tiny harbour at Pors Poulhan, you'll find this "allée couverte" - a stone age burial chamber.
 
-But don't stop there. Keep following the coast path and you'll come across multiple sites with interpretation boards, and even a museum.
+But don't stop there. Keep following the coast path and you'll come across multiple sites explaining the ancient history of this stretch of coastline.
 
 If you're here with children, I highly recommend taking the walk from the car park inland, up to the north west, and then back along the coast. There are many footpaths and lots of different routes. Going anticlockwise saves the best bits, the stone age sites, until last, and there's a beach along the way!
