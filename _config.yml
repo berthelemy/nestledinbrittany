@@ -19,7 +19,7 @@ owner: Mark Berthelemy
 description: >- # this means to ignore newlines until "baseurl:"
   Live, work, and play in Brittany, France
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://nestledinbritanny.org.uk" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://nestledinbrittany.org.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:  berthelemy
 
