@@ -1,0 +1,2 @@
+- Add RSS feed
+- Make maps consistent and turn into include
