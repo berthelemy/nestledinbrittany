@@ -21,7 +21,7 @@
 
                 <section>
 									<header class="main">
-										<h1>{% if page.url != "/"%}<a href="/">Home</a> / {% endif %}{% if page.categories %}<a href="{{ site.url }}/{{ page.categories[0] }}">{{ page.categories[0] }}</a> / {% endif %}{{ page.title }}</h1>
+										<h1>{% if page.url != "/"%}<a href="/">Home</a> / {% endif %}{% if page.categories %}<a href="{{ site.url }}/{{ page.categories[0]|downcase }}">{{ page.categories[0] }}</a> / {% endif %}{{ page.title }}</h1>
 										{% if page.img %}
 										<div class="header-image">
 											<img class="image fit" src="{{ site.url }}/assets/images/{{ page.img }}" alt="{{  page.imgalt }}" />
