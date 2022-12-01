@@ -24,6 +24,8 @@ The site is built on the generous efforts of many people, who have provided soft
 
 [Leaflet full screen plugin](https://github.com/Leaflet/Leaflet.fullscreen)
 
+[Leaflet reset plugin](https://github.com/drustack/Leaflet.ResetView)
+
 [Leaflet gesture handling plugin](https://github.com/elmarquis/Leaflet.GestureHandling)
 
 [Github pages hosting](https://pages.github.com/)
