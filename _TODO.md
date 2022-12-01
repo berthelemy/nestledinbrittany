@@ -1,2 +1,3 @@
 - Add RSS feed
 - Make maps consistent and turn into include
+- Fix home page layout on mobile
