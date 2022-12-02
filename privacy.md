@@ -40,10 +40,10 @@ permalink: /privacy/
 <p>Like any other website, Nestled in Brittany uses 'cookies'. These cookies are used to store information including visitors' preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimize the users' experience by customizing our web page content based on visitors' browser type and/or other information.</p>
 
 <p>You will be given the option to accept or refuse cookies when you first use the site, and can change your mind at any point.</p>
+<!-- PiwikPro -->
+<div id='ppms_cm_privacy_settings' class='ppms_cm_privacy_settings_widget' data-editor-centralize='true' data-main-container='true' data-root='true'><div class='ppms_cm_privacy_settings_widget_content' data-disable-select='true'><h1 class='ppms_cm_privacy_settings_form_link_header' id='ppms_cm_privacy_settings_form_link_header_id'>Privacy settings</h1><p class='ppms_cm_privacy_settings_form_link_text' id='ppms_cm_privacy_settings_form_link_text_id'>We collect and process your data on this site to better understand how it is used. We always ask you for consent to do that. You can change your privacy settings here.</p><button class='ppms_cm_privacy_settings_button_show' id='ppms_cm_privacy_settings_button'>Manage settings</button></div></div>
 
-<!-- PiwikiPro opt out form-->
-<script>window['stg'] = window['stg'] || {};window['stg'].optedOutCheckboxText="You’re opted out. Uncheck to opt in.";window['stg'].optedInCheckboxText="Opt out of data collection and usage";window['stg'].isGlobal=false;window['stg'].instanceHostname="https://berthelemy.containers.piwik.pro";</script><div id="_stg_opt_out_iframe_content" style="display: none;"><p>Privacy on this site: We collect and process your data on this site to better understand how it is used. You can opt-in or opt-out at any time.</p><input id="_stg_optout_checkbox" onclick="window.parent.storeUserOptOutPreferences();" type="checkbox"><label id="_stg_optout_checkbox_label" for="_stg_optout_checkbox"></label></div><script src="https://berthelemy.containers.piwik.pro/privacy/script.v2.js">
-</script>
+<!-- End of PiwikPro-->
 
 <!--<h2>Privacy Policies</h2>
 
