@@ -6,7 +6,7 @@ permalink: /about/
 
 After several years living and working in central Brittany, Sarah & Mark Berthelemy have discovered many hidden spots. This site is an attempt to share our delight in this beautiful part of France.
 
-Any errors are ours. Please let us know if you see something that needs updating.
+Any errors are ours. Please <a href="/contact">let us know</a> if you see something that needs updating.
 
 ## Licensing
 
