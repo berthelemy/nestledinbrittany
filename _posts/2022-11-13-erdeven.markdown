@@ -2,8 +2,8 @@
 layout: post
 title:  "Erdeven alignments"
 address: "60 Rue des Menhirs, 56410 Erdeven"
-img: erdeven-2013-08-24 12.49.47.jpg
-imgalt: Standing stones
+image: erdeven-2013-08-24 12.49.47.jpg
+imagealt: Standing stones
 date:   2022-11-13 08:22:34 +0100
 tags: history walks
 categories: Morbihan

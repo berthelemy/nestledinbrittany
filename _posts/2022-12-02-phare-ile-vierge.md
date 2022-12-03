@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Phares de l'Île Vierge"
-img: phare-ile-vierge-1000728.jpg
+image: phare-ile-vierge-1000728.jpg
 date:   2022-12-02 21:00:00 +0100
 tags: walks history
 categories: Finistère
 address: "L'Île Vierge, 29880 Plouguerneau"
-imgalt: Two lighthouses on an island
+imagealt: Two lighthouses on an island
 longitude: 48.639459918494765
 latitude: -4.567587802742473
 links:
@@ -20,4 +20,4 @@ links:
 ---
 I can't remember where we parked to get this view. But, to be honest, anywhere in the vicinity will give you great walks and stunning outlooks over the sea and islands.
 
-This north west coast of Finistère feels very different to the south coast. It's difficult to pin down why, but it perhaps feels a little more isolated. 
+This north west coast of Finistère feels very different to the south coast. It's difficult to pin down why, but it perhaps feels a little more isolated.

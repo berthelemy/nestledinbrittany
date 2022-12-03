@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Pors Poulhan"
-img: pors-poulhan-allee-couverte-1000822.jpg
+image: pors-poulhan-allee-couverte-1000822.jpg
 date:   2022-11-13 08:22:34 +0100
 tags: history walks
 categories: Finistère
 address: "Pors Poulhan, 29780 Plouhinec"
-imgalt: Allée couverte - stone age burial chamber
+imagealt: Allée couverte - stone age burial chamber
 longitude: 47.98625
 latitude: -4.46231
 links:

@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Lac du Drennec"
-img: lac-du-drennec-IMG_20210615_224957.jpg
+image: lac-du-drennec-IMG_20210615_224957.jpg
 date:   2022-11-22 08:00:34 +0100
 tags: walks food camping
 categories: Finistère
 address: "Croas Penn Ar N'each, 29450 COMMANA"
-imgalt: The lake at sunset
+imagealt: The lake at sunset
 longitude: 48.393754956286976
 latitude: -4.000002904807828
 links:

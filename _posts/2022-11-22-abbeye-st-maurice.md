@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Abbeye St Maurice"
-img: st-maurice-IMG20220820171332.jpg
+image: st-maurice-IMG20220820171332.jpg
 date:   2022-11-22 07:13:34 +0100
 tags: walks food history
 categories: Finistère
 address: "29360 Clohars-Carnoët"
-imgalt: The river Laïta
+imagealt: The river Laïta
 longitude: 47.80556873563117
 latitude: -3.5297606319337835
 links:

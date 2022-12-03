@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Port Louis"
-img: port-louis-1010051.jpg
+image: port-louis-1010051.jpg
 date:   2022-11-30 07:45:34 +0100
 tags: walks food
 categories: Morbihan
 address: "56290 PORT-LOUIS"
-imgalt: Looking across the river to Lorient
+imagealt: Looking across the river to Lorient
 longitude: 47.7084
 latitude: -3.3563
 links:
