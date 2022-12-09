@@ -48,33 +48,41 @@
 
                     {{ content }}
 										{% if page.longitude %}
-										<h2>{{ page.title }}, {{ page.address }}</h2>
-										<div id="map"></div>
-										<script>
-										var map = L.map('map',{
-										  gestureHandling: true,
-										  fullscreenControl: {
-										        pseudoFullscreen: true // if true, fullscreen to page width and height
-													}
-										    }).setView([{{site.longitude}},{{site.latitude}}], 8);
-										var marker = L.marker([{{page.longitude}},{{page.latitude}}],{alt:"{{page.title}}"}).addTo(map);
-										L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-												maxZoom: 19,
-												attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-										}).addTo(map);
-										marker.bindPopup("<b>{{ page.title }}</b><br>{{ page.address }}").openPopup();
-										</script>
 
-										<p><a class="button" href="https://www.google.com/maps/search/?api=1&query={{page.longitude}}%2C{{ page.latitude }}" target="_blank">Open in Google Maps</a></p>
+										<div class="row">
+											{% if page.links %}
+											<div class="col-6 col-12-small">
+												<h2>External links</h2>
+												{% for link in page.links %}
+													<p><a href="{{ link.url }}" target="_blank">{{ link.source }}</a></p>
+												{% endfor %}
+											</div>
+											{% endif %}
+									    <div class="col-6 col-12-small">
+												<h2>{{ page.title }}, {{ page.address }}</h2>
+												<div id="map"></div>
+												<script>
+												var map = L.map('map',{
+												  gestureHandling: true,
+												  fullscreenControl: {
+												        pseudoFullscreen: true // if true, fullscreen to page width and height
+															}
+												    }).setView([{{site.longitude}},{{site.latitude}}], 8);
+												var marker = L.marker([{{page.longitude}},{{page.latitude}}],{alt:"{{page.title}}"}).addTo(map);
+												L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+														maxZoom: 19,
+														attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+												}).addTo(map);
+												marker.bindPopup("<b>{{ page.title }}</b><br>{{ page.address }}").openPopup();
+												</script>
 
+												<p><a class="button" href="https://www.google.com/maps/search/?api=1&query={{page.longitude}}%2C{{ page.latitude }}" target="_blank">Open in Google Maps</a></p>
+										</div>
 										{% endif %}
 
-										{% if page.links %}
-										<h2>External links</h2>
-										{% for link in page.links %}
-											<p><a href="{{ link.url }}" target="_blank">{{ link.source }}</a></p>
-										{% endfor %}
-										{% endif %}
+
+
+									</div><!-- end of row -->
 
 										<hr>
 										<p>Last updated: {{ page.date | date: "%B %d, %Y"}}</p>
