@@ -23,6 +23,6 @@ Even on a chilly February weekend, Concarneau was a fun place to be.
 
 We stayed at the [Hotel de France et de Europe](https://www.hotel-france-europe.com/), a small 3* hotel with a very friendly and helpful team. It's just up the road from the "ville close", the old walled town. Not far from the end of the voie verte (an old railway line converted to a multi-use leisure route), and almost opposite Domino's Pizza.
 
-Our evening meal was spent just around the corner at Ker Thaï [Facebook page](https://www.facebook.com/yoting78/?locale=th_TH). The food was superb, and the ambiance friendly and relaxed.
+Our evening meal was spent just around the corner at Ker Thaï ([Facebook page](https://www.facebook.com/yoting78/?locale=th_TH)). The food was superb, and the ambiance friendly and relaxed.
 
 The next morning, we wandered around the ville close. Many of the businesses were shut as the season hasn't started yet. We know, from previous experience, that on a summer's day there will be hundreds of people in the old town. So it was nice to have it mostly to ourselves.
