@@ -26,3 +26,5 @@ We stayed at the [Hotel de France et de Europe](https://www.hotel-france-europe.
 Our evening meal was spent just around the corner at Ker Thaï ([Facebook page](https://www.facebook.com/yoting78/?locale=th_TH)). The food was superb, and the ambiance friendly and relaxed.
 
 The next morning, we wandered around the ville close. Many of the businesses were shut as the season hasn't started yet. We know, from previous experience, that on a summer's day there will be hundreds of people in the old town. So it was nice to have it mostly to ourselves.
+
+The market in the old Halles is worth a visit at any time. Fresh seafood, cheese, charcuterie, bread... Everything you need for a good lunch by the seaside.
