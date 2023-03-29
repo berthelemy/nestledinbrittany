@@ -17,7 +17,7 @@ links:
  - source: "Map of the walk, with GPX file"
    url: https://www.cirkwi.com/fr/circuit/184280-le-tour-du-lac-de-kerne-uhel
 ---
-The lake (étang) of Kerné Uhel was formed by the damming of the River Blavet north of Rostrenen. Park up at the Base Nautique head either west or east to follow the path around the lake.
+The lake (étang) of Kerné Uhel was formed by the damming of the River Blavet north of Rostrenen. Park up at the Base Nautique and head either west or east to follow the path around the lake.
 
 With the forest coming down to the water's edge, and the almost complete absence of people, it feels like you could be in the wilds of Canada (at least it did in March).
 
