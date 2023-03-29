@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ètang de Kerné Uhel"
+title:  "Étang de Kerné Uhel"
 image: assets/images/Etang-de-Kerne-Uhel-IMG20230328141832.jpg
 date: 2023-03-28 17:00:00 +0100
 tags: walks
