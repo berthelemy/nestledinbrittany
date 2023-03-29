@@ -2,7 +2,7 @@
 layout: post
 title:  "Chapelle Saint-Barbe"
 address: "56320 Le Faouët"
-image: chapelle-st-barbe-IMG20220701090109.jpg
+image: assets/images/chapelle-st-barbe-IMG20220701090109.jpg
 imagealt: Chappelle Saint-Barbe
 date:   2022-11-13 08:22:34 +0100
 tags: history walks

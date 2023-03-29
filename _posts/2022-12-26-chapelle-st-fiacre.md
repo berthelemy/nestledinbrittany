@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Chapelle St Fiacre"
-image: chapelle-st-fiacre-P1020861.jpg
+image: assets/images/chapelle-st-fiacre-P1020861.jpg
 date:   2022-12-27 09:00:00 +0100
 tags: history walks
 category: Morbihan

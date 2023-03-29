@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pors Poulhan"
-image: pors-poulhan-allee-couverte-1000822.jpg
+image: assets/images/pors-poulhan-allee-couverte-1000822.jpg
 date:   2022-11-13 08:22:34 +0100
 tags: history walks
 category: Finistère

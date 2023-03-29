@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Domaine de Trévarez"
-image: trevarez-IMG20220809151145.jpg
+image: assets/images/trevarez-IMG20220809151145.jpg
 date:   2023-01-16 09:00:00 +0100
 tags: walks food history
 category: Finistère

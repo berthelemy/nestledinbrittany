@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Nantes-Brest Canal at Chateauneuf"
-image: chateauneuf-IMG20230107131653.jpg
+image: assets/images/chateauneuf-IMG20230107131653.jpg
 date:   2023-01-09 09:00:00 +0100
 tags: walks
 category: Finistère

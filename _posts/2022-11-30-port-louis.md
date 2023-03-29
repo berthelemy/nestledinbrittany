@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Port Louis"
-image: port-louis-1010051.jpg
+image: assets/images/port-louis-1010051.jpg
 date:   2022-11-30 07:45:34 +0100
 tags: walks food
 category: Morbihan

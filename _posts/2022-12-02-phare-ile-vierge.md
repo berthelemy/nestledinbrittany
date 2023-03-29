@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Phares de l'Île Vierge"
-image: phare-ile-vierge-1000728.jpg
+image: assets/images/phare-ile-vierge-1000728.jpg
 date:   2022-12-02 21:00:00 +0100
 tags: walks history
 category: Finistère

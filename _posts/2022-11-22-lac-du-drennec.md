@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Lac du Drennec"
-image: lac-du-drennec-IMG_20210615_224957.jpg
+image: assets/images/lac-du-drennec-IMG_20210615_224957.jpg
 date:   2022-11-22 08:00:34 +0100
 tags: walks food camping
 category: Finistère

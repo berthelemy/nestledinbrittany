@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Forêt de Pont Callec"
-image: vallee-scorf-IMG20230224164141.jpg
+image: assets/images/vallee-scorf-IMG20230224164141.jpg
 date:   2023-02-24 17:00:00 +0100
 tags: walks
 category: Morbihan

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Kerfany Les Pins"
-image: kerfany-IMG20221022140608.jpg
+image: assets/images/kerfany-IMG20221022140608.jpg
 date:   2022-11-20 22:22:34 +0100
 tags: walks food
 category: Finistère

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Forêt de Carnoët"
-image: foret-quimperle-P1010265.jpg
+image: assets/images/foret-quimperle-P1010265.jpg
 date:   2022-11-30 07:00:34 +0100
 tags: walks
 category: Finistère

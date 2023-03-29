@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Les Roches du Diable"
-image: roches-diable-P1040228.jpg
+image: assets/images/roches-diable-P1040228.jpg
 date:   2023-01-02 09:00:00 +0100
 tags: walks
 category: Finistère
