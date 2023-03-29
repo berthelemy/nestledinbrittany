@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Foret de Pont Callec"
+title:  "Forêt de Pont Callec"
 image: vallee-scorf-IMG20230224164141.jpg
 date:   2023-02-24 17:00:00 +0100
 tags: walks
@@ -17,7 +17,7 @@ links:
  - source: "Blog post: a walk in the forest"
    url: https://blog.morbihan.com/idee-balade-toute-une-histoire-au-coeur-de-la-foret-de-pont-calleck/
 ---
-If you like forests or rivers there's no better place than the Foret de Pont Callec.
+If you like forests or rivers there's no better place than the Forêt de Pont Callec.
 
 It's a huge area between the towns of Berné and Plouay and bounded on the South and East by the beautiful River Scorff.
 
