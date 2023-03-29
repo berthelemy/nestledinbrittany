@@ -4,7 +4,8 @@ title:  "Phares de l'Île Vierge"
 image: phare-ile-vierge-1000728.jpg
 date:   2022-12-02 21:00:00 +0100
 tags: walks history
-categories: Finistère
+category: Finistère
+categoryname: Finistère
 address: "L'Île Vierge, 29880 Plouguerneau"
 imagealt: Two lighthouses on an island
 longitude: 48.639459918494765

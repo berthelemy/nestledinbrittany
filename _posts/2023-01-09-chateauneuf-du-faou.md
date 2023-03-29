@@ -4,7 +4,8 @@ title:  "Nantes-Brest Canal at Chateauneuf"
 image: chateauneuf-IMG20230107131653.jpg
 date:   2023-01-09 09:00:00 +0100
 tags: walks
-categories: Finistère
+category: Finistère
+categoryname: Finistère
 address: "Quai Jean Guivarc'h, 29520 Châteauneuf-du-Faou"
 imagealt: Lock gates in full flood
 longitude: 48.184086918100746

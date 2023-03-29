@@ -4,7 +4,8 @@ title:  "Forêt de Carnoët"
 image: foret-quimperle-P1010265.jpg
 date:   2022-11-30 07:00:34 +0100
 tags: walks
-categories: Finistère
+category: Finistère
+categoryname: Finistère
 address: "29300 QUIMPERLÉ"
 imagealt: Looking up into the tree canopy
 longitude: 47.8333

@@ -4,7 +4,8 @@ title:  "Forêt de Pont Callec"
 image: vallee-scorf-IMG20230224164141.jpg
 date:   2023-02-24 17:00:00 +0100
 tags: walks
-categories: Morbihan
+category: Morbihan
+categoryname: Morbihan
 address: "56240 BERNE"
 imagealt: Footbridge over a tributary of the Scorff
 longitude: 47.943804302428255
