@@ -28,7 +28,7 @@ layout: default
 
       {% for post in site.posts %}
       var marker = L.marker([{{post.longitude}},{{post.latitude}}],{alt:'{{page.title}}'}).addTo(map);
-      marker.bindPopup("<img class='image fit popup' src='{{ site.url }}/assets/images/{{ post.image }}' /><br><b><a href='{{ post.url }}'>{{ post.title }}</a></b><br>{{ post.address }}<br>Departement: {{ post.categories }}<br>Categories: {% for tag in post.tags %}{{ tag }} {% endfor %}", {minWidth: 200,maxWidth: 300,}).on('click', clickZoom);
+      marker.bindPopup("<img class='image fit popup' src='{{ site.url }}/assets/images/{{ post.image }}' /><br><b><a href='{{ post.url }}'>{{ post.title }}</a></b><br>{{ post.address }}<br>Departement: {{ post.categoryname }}<br>Categories: {% for tag in post.tags %}{{ tag }} {% endfor %}", {minWidth: 200,maxWidth: 300,}).on('click', clickZoom);
       {% endfor %}
 
       L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
