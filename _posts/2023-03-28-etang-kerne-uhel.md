@@ -2,7 +2,7 @@
 layout: post
 title:  "Ètang de Kerné Uhel"
 image: Etang-de-Kerne-Uhel-IMG20230328141832.jpg
-date: 2023-03-29 17:00:00 +0100
+date: 2023-03-28 17:00:00 +0100
 tags: walks
 categories: Côtes d'Armor
 address: "Pen Ar C'hoat, 22110 Trémargat"
