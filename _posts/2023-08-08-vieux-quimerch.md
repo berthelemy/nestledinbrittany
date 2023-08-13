@@ -3,7 +3,7 @@ layout: post
 title:  "Vieux Quimerc'h"
 image: assets/images/vieux-quimerch-IMG20230603145120.jpg
 date: 2023-08-08 08:00:00 +0100
-tags: walks
+tags: walks history
 categoryname: "Finistère"
 categories: finistere
 address: "1304 Le Vieux Bourg, 29590 Pont-de-Buis-lès-Quimerch"
