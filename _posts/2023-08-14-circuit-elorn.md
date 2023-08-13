@@ -3,7 +3,7 @@ layout: post
 title:  "Circuit de l’Elorn et du lac du Drennec"
 image: assets/images/elorn-IMG20230604103122.jpg
 date: 2023-08-14 08:00:00 +0100
-tags: walks
+tags: walks history
 categoryname: "Finistère"
 categories: finistere
 address: "29450 Sizun"
