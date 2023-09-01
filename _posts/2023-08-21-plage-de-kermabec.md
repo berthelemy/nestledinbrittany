@@ -15,7 +15,7 @@ links:
    url: https://www.tourismebretagne.com/offres/plage-de-kermabec-treguennec-fr-1981540/
  - source: "Telegramme beaches information page"
    url: https://plages.letelegramme.fr/314/finistere/treguennec/plage-de-kermabec
- - source: "Tourist information: Circuit de l'étang de Trunvel (signposted walking route)
+ - source: "Tourist information: Circuit de l'étang de Trunvel (signposted walking route)"
    url: https://www.destination-paysbigouden.com/a-voir-a-faire-0/circuit-de-l-etang-de-trunvel-2454621
  - source: "Wikipedia (French): The 2nd World War pebble crushing factory"
    url: https://fr.wikipedia.org/wiki/Usine_de_concassage_de_galets_de_Tr%C3%A9guennec
