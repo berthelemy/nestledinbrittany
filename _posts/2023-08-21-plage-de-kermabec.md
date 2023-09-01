@@ -5,7 +5,7 @@ image: assets/images/plage-kermabec-1010111.jpg
 date: 2023-08-21 08:00:00 +0100
 tags: walks
 categoryname: "Finistère"
-categories: finistere
+categories: Finistère
 address: "29720 Tréguennec"
 imagealt: Looking down the beach on a hazy day
 longitude: 47.88120616331834
