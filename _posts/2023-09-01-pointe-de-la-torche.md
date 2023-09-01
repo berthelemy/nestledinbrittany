@@ -24,7 +24,7 @@ In springtime, the fields on the approach to the Point are adorned with swathes 
 
 In the summer, the surfers compete for space with walkers, cyclist, camper vans and photographers. The short walk from the car park around the Point is worth doing for the views across the bay, surfing photos, and exploring the 2nd World War and neolithic remains.
 
-The Point is at the southern end of a 3 mile (5km) long sandy beach, facing directly onto the Atlantic Ocean, and topped out by the [Plage de Kermabec](/2023-08-21-plage-de-kermabec). If you want space and wide open skies, it's the place to be. And, with many miles of cycle and walking routes, there's plenty to do.
+The Point is at the southern end of a 3 mile (5km) long sandy beach, facing directly onto the Atlantic Ocean, and topped out by the [Plage de Kermabec](/finistere/plage-de-kermabec). If you want space and wide open skies, it's the place to be. And, with many miles of cycle and walking routes, there's plenty to do.
 
 If that's not enough, take advantage of one of the many surf schools, hire shops or creperies.
 
