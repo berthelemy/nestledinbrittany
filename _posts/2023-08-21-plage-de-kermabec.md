@@ -20,7 +20,7 @@ links:
  - source: "Wikipedia (French): The 2nd World War pebble crushing factory"
    url: https://fr.wikipedia.org/wiki/Usine_de_concassage_de_galets_de_Tr%C3%A9guennec
 ---
-The beach at Kermabec is at the north end of a massive (3 mile / 5km) sandy beach, with its southern end marked by the [Pointe de la Torche](/2023-08-21-pointe-de-la-torche).
+The beach at Kermabec is at the north end of a massive (3 mile / 5km) sandy beach, with its southern end marked by the [Pointe de la Torche](/finistere/pointe-de-la-torche).
 
 Head for the village of Treguennec, and then keep going towards the imposing dunes until you reach the huge free car park. From here, you can head to the beach (with lifeguards in the summer), explore the 2nd World War pebble crushing factory, or just walk or cycle the extensive network of quiet lanes and off-road paths.
 
