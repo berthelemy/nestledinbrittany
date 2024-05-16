@@ -13,7 +13,7 @@
 
     <meta prefix="og: http://ogp.me/ns#" property="og:description" content="{{ site.description }}: {{ site.sub-description }}" />
     {% if page.image %}
-    <meta prefix="og: http://ogp.me/ns#" property="og:image" content="{{ site.url }}/assets/img/post-images/{{ page.image }}" />
+    <meta prefix="og: http://ogp.me/ns#" property="og:image" content="{{ site.url }}/{{ page.image }}" />
     {% else %}
     <meta prefix="og: http://ogp.me/ns#" property="og:image" content="{{ site.url }}/assets/images/le-pouldu-IMG20220904174349.jpg" />
     {% endif %}
@@ -26,7 +26,7 @@
     <meta name="twitter:title" content="{{ site.title }} | {{ page.title }}">
     <meta name="twitter:description" content="{{ site.description }}: {{ site.sub-description }}">
     {% if page.image %}
-    <meta name="twitter:image" content="{{ site.url }}/assets/img/post-images/{{ page.image }}">
+    <meta name="twitter:image" content="{{ site.url }}/{{ page.image }}">
     {% else %}
     <meta name="twitter:image" content="{{ site.url }}/assets/images/le-pouldu-IMG20220904174349.jpg">
     {% endif %}
