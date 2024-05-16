@@ -25,8 +25,11 @@
     <meta property="twitter:url" content="{{ page.url }}">
     <meta name="twitter:title" content="{{ site.title }} | {{ page.title }}">
     <meta name="twitter:description" content="{{ site.description }}: {{ site.sub-description }}">
+    {% if page.image %}
     <meta name="twitter:image" content="{{ site.url }}/assets/img/post-images/{{ page.image }}">
-
+    {% else %}
+    <meta name="twitter:image" content="{{ site.url }}/assets/images/le-pouldu-IMG20220904174349.jpg">
+    {% endif %}
 
     <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="/feed.xml">
 
