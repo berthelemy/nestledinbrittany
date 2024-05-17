@@ -4,7 +4,7 @@ title:  "Les Roches du Diable"
 image: assets/images/roches-diable-P1040228.jpg
 date:   2023-01-02 09:00:00 +0100
 tags: walks
-category: Finistère
+category: finistere
 categoryname: Finistère
 address: "29300 Guilligomarc'h"
 imagealt: Rocks with gushing water

@@ -4,7 +4,7 @@ title:  "Kerfany Les Pins"
 image: assets/images/kerfany-IMG20221022140608.jpg
 date:   2022-11-20 22:22:34 +0100
 tags: walks food
-category: Finistère
+category: finistere
 categoryname: Finistère
 address: "Kerfany les pins, 29350 Moëlan-sur-Mer"
 imagealt: Beach and restaurant

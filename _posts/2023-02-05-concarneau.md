@@ -4,7 +4,7 @@ title:  "Concarneau"
 image: assets/images/concarneau-IMG20230205113908.jpg
 date:   2023-02-05 19:00:00 +0100
 tags: walks food history
-category: Finistère
+category: finistere
 categoryname: Finistère
 address: "29900 CONCARNEAU"
 imagealt: Ancient anchor resting in front of stone building by a port

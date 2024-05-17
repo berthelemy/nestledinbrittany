@@ -4,7 +4,7 @@ title:  "Domaine de Trévarez"
 image: assets/images/trevarez-IMG20220809151145.jpg
 date:   2023-01-16 09:00:00 +0100
 tags: walks food history
-category: Finistère
+category: finistere
 categoryname: Finistère
 address: "Domaine de Trévarez, 29520 Saint-Goazec"
 imagealt: The chateau on a hot, sunny day

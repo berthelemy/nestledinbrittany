@@ -5,7 +5,7 @@ image: assets/images/la-torche-1010141.jpg
 date: 2023-09-01 08:00:00 +0100
 tags: walks history
 categoryname: "Finistère"
-categories: Finistère
+categories: finistere
 address: "29120 Plomeur"
 imagealt: Surfers at La Torche
 longitude: 47.83700836917721
