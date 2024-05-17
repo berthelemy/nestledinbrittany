@@ -2,7 +2,7 @@
 layout: post
 title:  "Pléneuf-Val-André"
 image: assets/images/1010326-1200.jpg
-date: 2024-05-17 07:00:00 +0100
+date: 2024-05-01 07:00:00 +0100
 tags: walks history
 categoryname: "Côtes d'Armor"
 categories: cotes-darmor
