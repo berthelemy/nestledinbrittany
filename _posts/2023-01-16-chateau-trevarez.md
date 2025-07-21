@@ -20,7 +20,7 @@ links:
  - source: "Membership card (French and English)"
    url: https://www.cdp29.fr/en/presentation-chemins-du-patrimoine-carte-abonnement
 ---
-Looking over the Aulne Valley, just opposite [Chateauneuf-du-Faou](/finistère/chateauneuf-du-faou) is the Domaine de Trévarez. As well as the fantastical pink granite château, there are extensive grounds, rhododendron woods, a hidden pool, and, each year, specially commissioned art works in the former, very grand, stables.
+Looking over the Aulne Valley, just opposite [Chateauneuf-du-Faou](/finistere/chateauneuf-du-faou) is the Domaine de Trévarez. As well as the fantastical pink granite château, there are extensive grounds, rhododendron woods, a hidden pool, and, each year, specially commissioned art works in the former, very grand, stables.
 
 The house is a restoration work in progress. Each room offers a small taste of the vision of the man behind it: the politician James de Kerjégu.
 
